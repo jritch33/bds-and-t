@@ -1,0 +1,94 @@
+{
+    "100": {
+        "resourceType": "Patient",
+        "identifier": [
+            {
+                "use": null,
+                "type": null,
+                "system": null,
+                "value": "100",
+                "period": null,
+                "assigner": null
+            }
+        ],
+        "active": true,
+        "name": [
+            {
+                "use": null,
+                "text": "John B Doe",
+                "family": "Doe",
+                "given": [
+                    "John",
+                    "B"
+                ],
+                "prefix": [],
+                "suffix": [],
+                "period": null
+            }
+        ],
+        "telecom": [],
+        "gender": "male",
+        "birthDate": "1908-12-01",
+        "deceasedBoolean": false,
+        "deceasedDateTime": null,
+        "address": [],
+        "maritalStatus": {
+            "coding": [],
+            "text": "married"
+        },
+        "multipleBirthBoolean": true,
+        "multipleBirthInteger": 1,
+        "photo": [],
+        "contact": [],
+        "communication": [],
+        "generalPractitioner": [],
+        "managingOrganization": [],
+        "link": []
+    },
+    "200": {
+        "resourceType": "Patient",
+        "identifier": [
+            {
+                "use": null,
+                "type": null,
+                "system": null,
+                "value": "100",
+                "period": null,
+                "assigner": null
+            }
+        ],
+        "active": true,
+        "name": [
+            {
+                "use": null,
+                "text": "John B Doe",
+                "family": "Doe",
+                "given": [
+                    "John",
+                    "B"
+                ],
+                "prefix": [],
+                "suffix": [],
+                "period": null
+            }
+        ],
+        "telecom": [],
+        "gender": "male",
+        "birthDate": "1908-12-01",
+        "deceasedBoolean": false,
+        "deceasedDateTime": null,
+        "address": [],
+        "maritalStatus": {
+            "coding": [],
+            "text": "married"
+        },
+        "multipleBirthBoolean": true,
+        "multipleBirthInteger": 1,
+        "photo": [],
+        "contact": [],
+        "communication": [],
+        "generalPractitioner": [],
+        "managingOrganization": [],
+        "link": []
+    }
+}
